@@ -82,7 +82,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Cloudera](https://www.cloudera.com/careers.html) | Palo Alto, CA; San Francisco, CA |
 | [Clue](https://www.helloclue.com/jobs.html) | Berlin, Germany |
 | [Clustrix](http://www.clustrix.com/careers/) | San Francisco, CA; San Jose, CA; Seattle, WA |
-| [Codecademy](https://www.codecademy.com/about/jobs) | New York, NY |
 | [Codefights](https://jobs.lever.co/codefights) | San Francisco, CA |
 | [Codeship](https://codeship.com/jobs) | Boston, MA; Remote |
 | [Coinbase](https://www.coinbase.com/careers) | San Francisco, CA |
@@ -94,7 +93,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Couchbase](https://www.couchbase.com/careers) | Mountain View, CA |
 | [Couchsurfing](http://www.couchsurfing.com/about/jobs/) | San Francisco, CA |
 | [Counsyl](https://www.counsyl.com/careers/) | San Francisco, CA |
-| [CreditKarma](https://www.creditkarma.com/careers) | San Francisco, CA |
 | [CrowdRise](https://www.crowdrise.com/about/jobs) | Los Angeles, CA |
 | [CrowdStar](https://jobs.jobvite.com/glu-mobile/) | Burlingame, CA |
 | [Cruise](https://jobs.carnival.com/careers) | San Francisco, CA |
@@ -105,14 +103,11 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [DigitalOcean](https://www.digitalocean.com/company/careers/) | New York, NY; Remote |
 | [Disqus](https://disqus.com/jobs/) | San Francisco, CA |
 | [DJI](https://we.dji.com/career.html) | Palo Alto, CA |
-| [Docker](https://www.docker.com/careers) | San Francisco, CA |
 | [DollarShaveClub](https://jobs.jobvite.com/dollarshaveclub) | Los Angeles, CA |
-| [DoorDash](https://www.doordash.com/careers/) | San Francisco, CA |
 | [Dot & Bo](https://www.dotandbo.com/content/jobs) | New York, NY |
 | [DOT Digital Group](http://dotgroup.com.br/trabalhe-conosco/) | Belo Horizonte, MG, Brazil; Brasília, DF, Brazil; Florianópolis, SC, Brazil; Rio de Janeiro, RJ, Brazil; São Paulo, SP, Brazil |
 | [DraftKings](http://careers.draftkings.com/) | Boston, MA; New York, NY |
 | [DroneDeploy](https://www.dronedeploy.com/careers.html) | Remote; San Francisco, CA |
-| [Duolingo](https://www.duolingo.com/jobs) | Pittsburgh, PA |
 | [EagleView](https://www.eagleview.com/careers) | Bothell, WA |
 | [Edmodo](https://www.edmodo.com/careers) | San Mateo, CA |
 | [Edmunds](https://www.edmunds.com/careers/) | Santa Monica, CA |
@@ -128,7 +123,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Eventbrite](https://www.eventbrite.com/careers/) | San Francisco, CA |
 | [Evernote](https://evernote.com/careers/) | Redwood City, CA |
 | [Farfetch](https://www.farfetch.com/careers) | Guimaraes, Portugal; Hong Kong; Lisbon, Portugal; London, UK; Moscow, Russia; Porto, Portugal; Shangai, China |
-| [Faraday Future](https://www.ff.com/careers/) | Los Angeles, CA |
 | [Fastly](https://www.fastly.com/about/careers) | San Francisco, CA |
 | [Fictiv](https://jobs.lever.co/fictiv) | San Francisco, CA |
 | [FiveStars](http://www.fivestars.com/careers/) | Denver, Colorado; San Francisco, CA |
@@ -222,13 +216,11 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Mixmax](https://mixmax.com/careers) | San Francisco, CA |
 | [Mixpanel](https://mixpanel.com/jobs/) | San Francisco, CA |
 | [MLab](https://mlab.com/company/) | San Francisco, CA |
-| [MongoDB](https://www.mongodb.com/careers) | New York, NY; Palo Alto, CA |
 | [Moz](https://moz.com/about/jobs) | Seattle, WA |
 | [MuleSoft](https://www.mulesoft.com/careers) | San Francisco, CA |
 | [Munchery](https://munchery.com/jobs/) | San Francisco, CA |
 | [Narrative Science](https://narrativescience.com/careers) | Chicago, IL |
 | [Nervana Systems](http://www.nervanasys.com/careers/) | San Diego, CA |
-| [Nest](http://nest.com/careers/life-at-nest/) | Kirkland, WA; Palo Alto, CA|
 | [New Relic](https://newrelic.com/about/careers) | San Francisco, CA |
 | [Nexmo](https://www.nexmo.com/careers/) | San Francisco, CA |
 | [Nextdoor](https://nextdoor.com/jobs/) | San Francisco, CA |
@@ -431,3 +423,11 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [SoundCloud](https://soundcloud.com/jobs) | Berlin, Germany; London, UK; New York, NY; San Francisco, CA |
 | [Spotify](https://www.spotifyjobs.com/) | Boston, MA; New York, NY; San Francisco, CA |
 | [Venmo](https://venmo.com/jobs/) | New York, NY |
+| [Codecademy](https://www.codecademy.com/about/jobs) | New York, NY |
+| [CreditKarma](https://www.creditkarma.com/careers) | San Francisco, CA |
+| [Docker](https://www.docker.com/careers) | San Francisco, CA |
+| [DoorDash](https://www.doordash.com/careers/) | San Francisco, CA |
+| [Duolingo](https://www.duolingo.com/jobs) | Pittsburgh, PA |
+| [Faraday Future](https://www.ff.com/careers/) | Los Angeles, CA |
+| [MongoDB](https://www.mongodb.com/careers) | New York, NY; Palo Alto, CA |
+| [Nest](http://nest.com/careers/life-at-nest/) | Kirkland, WA; Palo Alto, CA|
